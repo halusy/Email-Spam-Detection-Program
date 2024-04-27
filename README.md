@@ -1,7 +1,7 @@
 # Email Spam Detection Program
 ### By: Nicholas Ryan
 
-This is my Spam Detection Program, showcasing my abilites with Machine Learning. 
+This is my Email Spam Detection Program, showcasing my abilites with Machine Learning. 
 The following PDF breaks down the program line by line, and will stand in for this README file. 
 
 [README.pdf](https://github.com/halusy/Spam-Detection-Program/files/15137018/README.pdf)
