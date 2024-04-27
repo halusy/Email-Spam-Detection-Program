@@ -1,4 +1,4 @@
-# Spam Detection Program
+# Email Spam Detection Program
 ### By: Nicholas Ryan
 
 This is my Spam Detection Program, showcasing my abilites with Machine Learning. 
